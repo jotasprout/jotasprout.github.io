@@ -5,4 +5,4 @@ url: "https://jotasprout.github.io" # Replace with your actual domain
 baseurl: "" # Leave blank unless your site is in a subfolder like /blog
 
 # Build settings
-theme: jekyll-theme-minimal # Options: minima, jekyll-theme-cayman, etc.
+theme: jekyll-theme-minimal # Options: minimal, jekyll-theme-cayman, etc.
