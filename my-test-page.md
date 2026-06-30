@@ -1,5 +1,5 @@
 ---
-title: Test Page
+title: My New Page
 layout: page
 ---
 
